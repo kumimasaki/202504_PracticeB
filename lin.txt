@@ -1,0 +1,1 @@
+-novid -high -tickrate 128 -nojoy -preload -processheap -freq 144
